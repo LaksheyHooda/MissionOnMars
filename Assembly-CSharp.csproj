@@ -65,6 +65,7 @@
   <ItemGroup>
     <Compile Include="Assets\Player Stuff\Player Scripts\PlayerCameraController.cs" />
     <Compile Include="Assets\Player Stuff\Player Scripts\PlayerMovement.cs" />
+    <Compile Include="Assets\Player Stuff\Player Scripts\StarfLeftAndRight.cs" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.12f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
